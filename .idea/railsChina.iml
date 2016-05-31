@@ -330,6 +330,18 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="haml (vbundled(4.0.7), /Users/lotterymac/RubymineProjects/lensOfChina/railsChina/vendor/bundle/gems/haml-4.0.7) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/haml-4.0.7/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/haml-4.0.7/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/haml-4.0.7/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/gems/haml-4.0.7/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="i18n (vbundled(0.7.0), /Users/lotterymac/RubymineProjects/lensOfChina/railsChina/vendor/bundle/gems/i18n-0.7.0) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/gems/i18n-0.7.0/lib" />
